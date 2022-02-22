@@ -123,6 +123,17 @@ img{
     padding: 10px;
 }
 
+aside{
+    background-color: #f5ea4e;
+    height: 400px;
+    min-width: 400px; 
+}
+aside > div{
+    
+    background-image: url("imagens/colar-personalizado.jpeg");
+
+}
+
 
 
 
